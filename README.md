@@ -1,5 +1,10 @@
 # 💫 About Me:
-Building a Node.js application to strengthen my backend skills and explore scalable API development.<br>Also improving my expertise in .NET Core, Angular, and Azure.<br>Full-stack projects involving Node.js, .NET Core, Angular, REST APIs, or cloud-based solutions.<br>Best practices for deploying Node.js apps, microservices architecture, and advanced Azure cloud workflows.<br>Node.js (Express + TypeScript), Azure cloud services, microservices patterns, and Generative AI integration for developers.<br>Node.js, .NET Core, Angular, SQL optimization, authentication (OIDC, OAuth2, JWT), design patterns, and building scalable APIs.<br>I love reverse-engineering slow or complex features—whether in .NET, Node.js, or SQL—and rebuilding them cleaner and faster.
+▪ 🚀 Building a Node.js application to strengthen my backend skills and explore scalable API development. Also improving my expertise in .NET Core, Java, React, Angular, and Azure.
+<br>▪ 🌐 Growing expertise in .NET Core, Java, React, Angular, and Azure Cloud.
+<br>▪ 🧩 Developing full-stack solutions with Node.js, .NET Core, Angular, and REST APIs.
+<br>▪ ☁️ Exploring microservices, CI/CD pipelines, Azure services, and deployment best practices.
+<br>▪ 🛠 Working with Express + TypeScript, SQL optimization, and authentication standards like OIDC, OAuth2, and JWT.
+<br>▪ ⚡ Love improving performance — reverse-engineering slow features and rebuilding them cleaner and faster.
 
 
 ## 🌐 Socials:
